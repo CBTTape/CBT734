@@ -1,0 +1,8 @@
+2023-08-06 06:47:00.706461 - Initialized conversion of CBT734
+2023-08-06 06:47:00.781057 - Received CBT.V505.FILE734.PDS from FILE734.XMI 
+2023-08-06 06:47:00.783287 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE734.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:47:00.784306 - Found @FILE734.txt (text/plain) in CBT.V505.FILE734.PDS, moved to PDS/@FILE734
+2023-08-06 06:47:00.790489 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE734.PDS
+2023-08-06 06:47:00.796172   - Received RECFM=U data, stored XMIT file as CBT734/LOADLIB.xmi
+2023-08-06 06:47:00.797304 - Found PDSORIG.txt (text/plain) in CBT.V505.FILE734.PDS, moved to PDS/PDSORIG
+2023-08-06 06:47:00.798194 - Found PDSORIG$.jcl (text/plain) in CBT.V505.FILE734.PDS, moved to PDS/PDSORIG$
