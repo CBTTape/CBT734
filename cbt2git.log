@@ -1,8 +1,8 @@
-2025-04-15 05:05:55.021948 - Received CBT.V508.FILE734.PDS from FILE734.XMI 
-2025-04-15 05:05:55.022866 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:05:55.023365 - Found @FILE734.txt (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/@FILE734
-2025-04-15 05:05:55.023939 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE734.PDS, moved to PDS/LOADLIB.xmi
-2025-04-15 05:05:55.030214 - Received SBGOLOB.W$$.LINKLIB from LOADLIB.xmi 
-2025-04-15 05:05:55.031171 - Found PDSORIG.bin (application/octet-stream) in SBGOLOB.W$$.LINKLIB, moved to LOADLIB/PDSORIG
-2025-04-15 05:05:55.032346 - Found PDSORIG.txt (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/PDSORIG
-2025-04-15 05:05:55.032697 - Found PDSORIG$.jcl (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/PDSORIG$
+2025-04-15 23:47:16.101644 - Received CBT.V508.FILE734.PDS from FILE734.XMI 
+2025-04-15 23:47:16.102821 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:47:16.102893 - Found @FILE734.txt (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/@FILE734
+2025-04-15 23:47:16.103481 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE734.PDS, moved to PDS/LOADLIB.xmi
+2025-04-15 23:47:16.109645 - Received SBGOLOB.W$$.LINKLIB from LOADLIB.xmi 
+2025-04-15 23:47:16.110552 - Found PDSORIG.bin (application/octet-stream) in SBGOLOB.W$$.LINKLIB, moved to LOADLIB/PDSORIG
+2025-04-15 23:47:16.111651 - Found PDSORIG.txt (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/PDSORIG
+2025-04-15 23:47:16.111962 - Found PDSORIG$.jcl (text/plain) in CBT.V508.FILE734.PDS, moved to PDS/PDSORIG$
